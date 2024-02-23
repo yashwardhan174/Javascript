@@ -16,4 +16,4 @@
 
 [![Yashwardhan GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwardhan174)](https://github.com/yashwardhan174/github-readme-stats)
 
-[youtube]: [Wtf Vodka](https://www.youtube.com/@wtfvodka3631)
+[youtube]:[WTF Vodka](https://www.youtube.com/@wtfvodka3631)
