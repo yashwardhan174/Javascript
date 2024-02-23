@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I am Yashwardhan (not real name ofc) AKA [WTF Vodka][youtube]
 
-<!--
-**yashwardhan174/yashwardhan174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I develop cool bots for discord
+- 🤔 I help people make bots really easy without coding :)
+- ⚡ Fun fact: I am a pro gamer xD
 
-Here are some ideas to get you started:
+### Languages and tool i use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![Yashwardhan GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwardhan174)](https://github.com/yashwardhan174/github-readme-stats)
+
+[youtube]: [https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g
+](https://www.youtube.com/@wtfvodka3631)https://www.youtube.com/@wtfvodka3631
