@@ -1,5 +1,4 @@
-### Hi there 👋 I am Yashwardhan (not real name ofc) AKA [WTF Vodka][youtube]
-
+### Hi there 👋 I am Yashwardhan Nigam
 - 🌱 I develop cool bots for discord
 - 🤔 I help people make bots really easy without coding :)
 - ⚡ Fun fact: I am a pro gamer xD
@@ -17,5 +16,4 @@
 
 [![Yashwardhan GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwardhan174)](https://github.com/yashwardhan174/github-readme-stats)
 
-[youtube]: [https://www.youtube.com/channel/UCmTSEzt4h1S4MiCM1grWu9g
-](https://www.youtube.com/@wtfvodka3631)https://www.youtube.com/@wtfvodka3631
+[youtube]: [Wtf Vodka](https://www.youtube.com/@wtfvodka3631)
