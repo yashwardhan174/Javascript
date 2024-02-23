@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Yashwardhan Nigam
-- 🌱 I develop cool bots for discord
-- 🤔 I help people make bots really easy without coding :)
-- ⚡ Fun fact: I am a pro gamer xD
+- 🌱 I develop cool Website
+- 🤔 I help people make Dynamic Websites really easy without coding :)
+- ⚡ Fun fact: I am a pro gamer also a Full Stack Developer xD
 
 ### Languages and tool i use:
 
