@@ -2,6 +2,7 @@ const acc_ID = 1234456  //const cant be changed
 let acc_Email = "yash@gmail.com"
 var acc_pwd = "12345" //dont use var much 
 acc_City = "Indore"
+let acc_state;
 
 acc_Email = "yashwardhan@gmail.com"
 acc_pwd = "234232"
@@ -11,7 +12,7 @@ acc_City = "Pune"
 because of issues in Block scope and functional scope*/
 
 
-//console.log(accountID);
+//console.log(acc_ID);
 
-console.table([acc_ID , acc_Email , acc_pwd , acc_City])
+console.table([acc_ID , acc_Email , acc_pwd , acc_City , acc_state])
 
