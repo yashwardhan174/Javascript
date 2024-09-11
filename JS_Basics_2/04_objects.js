@@ -48,6 +48,22 @@ console.log(Object.entries(tinderUser));
 console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
 
+const course ={
+    coursename: "JS in Hindi",
+    price: "999",
+    instructor: "Yash"
+}
+
+// course.instructor
+const {instructor}= course
+// console.log(instructor); 
+
+// {
+//     "name" : "Yash",
+//     "coursename" : "JS in hindi",
+//     "price" : "free"
+// } //It is a JSON
+
 
 
 
