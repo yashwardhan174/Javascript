@@ -1,0 +1,15 @@
+Javascript Execution Context:
+
+1) Global Execution Context
+2) Function Execution Context
+
+3) Eval Execution Context
+
+
+***********************
+
+Steps of Execution
+
+1) Global Execution
+2) memory phase / Creation phase
+3) Execution phase
