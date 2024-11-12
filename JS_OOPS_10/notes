@@ -1,0 +1,18 @@
+#OOP 
+
+It stands for object oriented programming 
+
+#Parts of OOP
+Object Literals
+
+-Constructor Function  :- Everytime gives a new instance (any changes wont affect original value) Ex- new 
+-Prototypes
+-Classes
+-Instances(new , this)
+
+#4 Pillars of OOP
+
+Abstraction - Hiding all internal details a user dont need
+Encapsulation - bundles and restricts access to data.
+Inheritance - allows one class to inherit properties of another.
+Polymorphism - enables flexibility by allowing different classes to be treated as instances of a parent class.
